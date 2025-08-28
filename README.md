@@ -218,7 +218,4 @@ Para soporte técnico o reportar bugs:
 
 ---
 
-**¡Tu sistema está listo para la exposición con un diseño profesional y moderno!** 🎉 
-=======
-# Recorded-world
->>>>>>> 3fa08e725e16763084526c4b2a9f239e5a8d17e9
+
