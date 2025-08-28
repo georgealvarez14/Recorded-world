@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sistema de Gestión de Eventos
 
 Un sistema web moderno y elegante desarrollado en PHP para administrar eventos, personas y participantes en un entorno educativo.
